@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">stopjudol</string>
+    <string name="welcome_message">Welcome to StopJudol</string>
+    <string name="app_description">Your companion in maintaining a healthy digital lifestyle, free from online gambling.</string>
+    <string name="login">Login</string>
+    <string name="register">Create Account</string>
+    <string name="hero_image">Welcome Image</string>
+    <string name="create_account">Create an Account</string>
+    <string name="remember_me">Remember Me?</string>
+    <string name="forgot_password">Forgot Password?</string>"
+    <string name="dont_have_account">Dont have an account?</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account? Login</string>
+</resources>
